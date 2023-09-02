@@ -1,6 +1,6 @@
 # C_PROGRAMS
 Programas em C da universidade. 
-Este repositório contém códigos em linguagem C que foram desenvolvidos ao longo da minha formação acadêmica em Tecnologia da Informação.
+Este repositório contém ALGUNS !! códigos em linguagem C que foram desenvolvidos ao longo da minha formação acadêmica em Tecnologia da Informação.
 
 ## Sobre
 
