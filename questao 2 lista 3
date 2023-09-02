@@ -1,8 +1,0 @@
-#define TAMANHO 10
-#include <stdio.h>
-int main()
-{
-	char Vetor[TAMANHO],I; 
-	 
-	return 0; 
-}
