@@ -29,6 +29,7 @@ int main()
         {
             Frase[I] = "@"; 
         }
+      I++;
   }
   printf("%s",Frase); 
   return 0; 
