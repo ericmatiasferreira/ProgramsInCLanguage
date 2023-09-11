@@ -11,7 +11,7 @@ Saída: @O@I@A @E @@O@@A@A@AO
 
 
 */
-#define T 100; 
+#define T 100 
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -27,7 +27,7 @@ int main()
     if(isalpha(Frase[I]) && Frase[I] != 'a' && Frase[I] != 'e' && Frase[I] != 'i' && Frase[I] != 'o' && Frase[I] != 'u' 
         && Frase[I] != 'A' && Frase[I] != 'E' && Frase[I] != 'I' && Frase[I] != 'O' && Frase[I] != 'U')
         {
-            Frase[I] = "@"; 
+            Frase[I] = '@'; 
         }
       I++;
   }
