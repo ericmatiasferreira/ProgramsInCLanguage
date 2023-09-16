@@ -8,7 +8,7 @@ Durante meu curso de TI na UEG Sistemas de Informação , tenho a oportunidade d
 
 ---
 
-Obrigado pot visitar este repositório  para o meu aprendizado em Tecnologia da Informação. Se você tiver alguma dúvida, entre em contato comigo.
+Obrigado por visitar este repositório  para o meu aprendizado em Tecnologia da Informação. Se você tiver alguma dúvida, entre em contato comigo.
 
 Eric Matias F. Dias
 eric.04@aluno.ueg.br
