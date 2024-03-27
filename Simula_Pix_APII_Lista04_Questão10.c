@@ -5,7 +5,7 @@ Universidade Estadual De Goias
 Sistemas De Informacao 
 Disciplina de algoritmos e programaçao II 
 4 Periodo. 
-Agradecimento para Fortran Crusaders
+Agradecimento para Fortran Crusaders Isaque, Mario, Matheus e Eric. 
 
 
 
